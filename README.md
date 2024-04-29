@@ -7,7 +7,6 @@ The goal of this project is to display all publicly available data regarding any
 This repository contains code and data to analyze and present statistics on Spotify artists. It aims to provide a simple way to gather information about artists from Spotify's publicly available data.
 
 ## Contents
-- `.cache-ethan.falcao`: Contains cache data for analyses.
 - `vowel_gang test.ipynb`: A Jupyter notebook for data analysis.
 
 ## How to Use
